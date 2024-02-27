@@ -1,7 +1,7 @@
 {
   "name": "edge-db-core",
   "author": "Gaetano Lazzo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Access any database from Node.js using Edge.js and ADO.NET",
    "tags": [
     "sqlServer",

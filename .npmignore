@@ -1,6 +1,10 @@
 node_modules
 .idea
 .grunt
+.vs
+lib/win32
+lib/linux
+lib/darwin
 unit/bin
 unit/obj
 edge-db-core/bin

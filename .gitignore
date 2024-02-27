@@ -1,0 +1,8 @@
+node_modules
+.idea
+.grunt
+.vs
+unit/bin
+unit/obj
+edge-db-core/bin
+edge-db-core/obj
