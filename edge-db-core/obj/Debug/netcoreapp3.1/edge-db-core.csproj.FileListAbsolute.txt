@@ -1,0 +1,10 @@
+D:\gitrepo\edge-db-core\edge-db-core\bin\Debug\netcoreapp3.1\edge-db-core.deps.json
+D:\gitrepo\edge-db-core\edge-db-core\bin\Debug\netcoreapp3.1\edge-db-core.dll
+D:\gitrepo\edge-db-core\edge-db-core\bin\Debug\netcoreapp3.1\edge-db-core.pdb
+D:\gitrepo\edge-db-core\edge-db-core\obj\Debug\netcoreapp3.1\edge-db-core.csproj.AssemblyReference.cache
+D:\gitrepo\edge-db-core\edge-db-core\obj\Debug\netcoreapp3.1\edge-db-core.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepo\edge-db-core\edge-db-core\obj\Debug\netcoreapp3.1\edge-db-core.AssemblyInfoInputs.cache
+D:\gitrepo\edge-db-core\edge-db-core\obj\Debug\netcoreapp3.1\edge-db-core.AssemblyInfo.cs
+D:\gitrepo\edge-db-core\edge-db-core\obj\Debug\netcoreapp3.1\edge-db-core.csproj.CoreCompileInputs.cache
+D:\gitrepo\edge-db-core\edge-db-core\obj\Debug\netcoreapp3.1\edge-db-core.dll
+D:\gitrepo\edge-db-core\edge-db-core\obj\Debug\netcoreapp3.1\edge-db-core.pdb
