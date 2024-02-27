@@ -1,7 +1,7 @@
 {
   "name": "edge-db-core",
   "author": "Gaetano Lazzo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Access any database from Node.js using Edge.js and ADO.NET",
    "tags": [
     "sqlServer",
@@ -11,7 +11,8 @@
   ],
   "main": "lib/edge-db.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",	
+    "postinstall": "node downloadAdditionalFiles.js"
   },
 
   "license": "ISC",
