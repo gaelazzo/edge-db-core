@@ -59,7 +59,7 @@ const getResponseData = async (response) => {
 
 const platform = process.platform; // Ottieni la piattaforma corrente (darwin, win32, linux)
 const baseUrl = `https://api.github.com/repos/gaelazzo/edge-db-core/contents/lib/${platform}`;
-const destDir = path.join(__dirname, '../node_modules/edge-db-core/lib', platform);
+const destDir = path.join(__dirname, '../edge-db-core/lib', platform);
 
 fs.promises.mkdir(destDir, { recursive: true })
 .then(() => downloadDirectory(baseUrl, destDir))
